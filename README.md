@@ -12,7 +12,7 @@ This project is part of a challenge requested on a selection process. Keep in mi
 To run this project is quite simple. You just need to follow those steps to make it work.
 
 ```bash
-git clone https://github.com/otaviomorcegao/challenge-bff.git
+git clone https://github.com/otaviolbarbosa/challenge-bff.git
 
 cd challenge-bff
 
